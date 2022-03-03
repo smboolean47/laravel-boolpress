@@ -1,0 +1,25 @@
+@import '_franco.css';
+
+/*---------------
+    RESET
+-----------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*---------------
+    CONTAINERS
+-----------------*/
+.container {
+    max-width: var(--container-size);
+    margin: 0 auto;
+}
+
+/*---------------
+    TYPOGRAPHY
+-----------------*/
+h1 {
+    color: pink;
+}
